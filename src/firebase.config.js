@@ -4,14 +4,14 @@ import {getAuth} from "firebase/auth"
 
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDj9diPwwbI_dqVZ_MsHTK7cfWUsUwDysM",
-  authDomain: "my-recipes-bec28.firebaseapp.com",
-  projectId: "my-recipes-bec28",
-  storageBucket: "my-recipes-bec28.appspot.com",
-  messagingSenderId: "443335640205",
-  appId: "1:443335640205:web:1686e12992266d5f16cec4",
-  measurementId: "G-TGWNZZT1EJ"
+  apiKey: "AIzaSyCzhTHXATzA6sOeb6PnOezlr3H0UkXb48s",
+  authDomain: "react-fire-auth-e0e39.firebaseapp.com",
+  projectId: "react-fire-auth-e0e39",
+  storageBucket: "react-fire-auth-e0e39.appspot.com",
+  messagingSenderId: "987273192340",
+  appId: "1:987273192340:web:5fe0479989ebe8539e6581"
 };
+
 
 // Initialize Firebase
 const app = initializeApp(firebaseConfig);
